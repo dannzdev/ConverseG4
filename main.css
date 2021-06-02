@@ -117,10 +117,10 @@ ul {
     padding: 0 18px;
 }
 
-.cart-icon {
-    background-image: url('./imgs/shopping-cart.png');
+.header-right .cart-icon {
     width: 30px;
     height: 30px;
+    background-image: url('./imgs/shopping-cart.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;

@@ -23,6 +23,7 @@
     /* Better Font Rendering =========== */
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+
   }
 
   .icon-cart:before {
@@ -171,7 +172,7 @@ ul {
     padding: 0 18px;
 }
 
-.icon-cart.cart-button {
+.icon-cart .cart-button {
     margin-left: 20px;
     font-size: 2rem;
 

@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'icomoon';
-    src:  url('../fonts/icomoon.eot?ti32ek');
-    src:  url('../fonts/icomoon.eot?ti32ek#iefix') format('embedded-opentype'),
-      url('../fonts/icomoon.ttf?ti32ek') format('truetype'),
-      url('../fonts/icomoon.woff?ti32ek') format('woff'),
-      url('../fonts/icomoon.svg?ti32ek#icomoon') format('svg');
+    src:  url('./fonts/icomoon.eot?ti32ek');
+    src:  url('./fonts/icomoon.eot?ti32ek#iefix') format('embedded-opentype'),
+      url('./fonts/icomoon.ttf?ti32ek') format('truetype'),
+      url('./fonts/icomoon.woff?ti32ek') format('woff'),
+      url('./fonts/icomoon.svg?ti32ek#icomoon') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: block;
@@ -436,7 +436,7 @@ ul {
 .footer-media .facebook{
     width: 35px;
     height: 35px;
-    background-image: url('/imgs/face.png');
+    background-image: url('./imgs/face.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -445,7 +445,7 @@ ul {
 .footer-media .instagram{
     width: 35px;
     height: 35px;
-    background-image: url('/imgs/inst.png');
+    background-image: url('./imgs/inst.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
@@ -454,7 +454,7 @@ ul {
 .footer-media .twitter{
     width: 35px;
     height: 35px;
-    background-image: url('/imgs/twi.png');
+    background-image: url('./imgs/twi.png');
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
